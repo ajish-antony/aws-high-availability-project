@@ -93,3 +93,11 @@ fi
 ## Conclusion
 
 So this was the project that was required to deploy completely in the AWS cloud and which is made possible with the several resources offered by the AWS.  
+
+
+
+### ⚙️ Connect with Me
+
+<p align="center">
+<a href="mailto:ajishantony95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ajish-antony/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
